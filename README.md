@@ -1,5 +1,4 @@
 # Sealab2021
-Class project
+demo project
 
-## Lorem Ipsum
-Stuff....
+A simple JS project
